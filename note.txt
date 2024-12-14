@@ -1,0 +1,18 @@
+$create react project:
+$npm create vite@latest
+frontend
+react
+javascript
+
+Install dependency:
+$cd frontend
+$npm install
+$npm install react-router-dom
+$npm run dev
+clean up default react js and css files
+app.js clear and rafce
+app.css clear 
+edit index.css
+mkdir src/components
+mkdir src/pages
+
